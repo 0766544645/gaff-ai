@@ -10,12 +10,12 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212702816550;
 global.owner = [
-  ['212624854739', 'noureddine Ouafy', true],
+  ['212624854739', 'damar chamil ', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'gaff ai';
-global.author = 'Noureddine ouafy';
+global.author = 'damar chamil ';
 global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
 global.wait = 'Loading... | جاري الانتظار';
