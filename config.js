@@ -8,14 +8,14 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212702816550;
+global.pairingNumber = 212728089990;
 global.owner = [
-  ['212624854739', 'damar chamil ', true],
+  ['212633226499', 'damar chamil', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'gaff ai';
-global.author = 'damar chamil ';
+global.author = 'damar chamil';
 global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
 global.wait = 'Loading... | جاري الانتظار';
